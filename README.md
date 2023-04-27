@@ -11,12 +11,9 @@
 - Formado em Análise e Desenvolvimento de Sistemas.
 - Atualmente estudando para aprimorar minhas habilidades em desenvolvimento front-end.
 - Buscando oportunidades para trabalhar como desenvolvedor front-end.
-
-
-
-
-<div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinigusmao-png&show_icons=true&theme=gruvbox&" alt="Vinícius GitHub stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinigusmao-png&layout=compact&theme=gruvbox&langs_count=8&card_width=445&" alt="Top Langs" />
+<div >
+  <a href="https://github.com/vinigusmao-png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinigusmao-png&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinigusmao-png&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
