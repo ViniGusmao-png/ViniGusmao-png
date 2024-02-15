@@ -10,7 +10,7 @@
 
 - Formado em Análise e Desenvolvimento de Sistemas.
 - Atualmente estudando para aprimorar minhas habilidades em desenvolvimento front-end.
-- Buscando oportunidades para trabalhar como desenvolvedor front-end.
+- Desenvolvedor Junior Front-End.
 <div >
   <a href="https://github.com/vinigusmao-png">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinigusmao-png&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
