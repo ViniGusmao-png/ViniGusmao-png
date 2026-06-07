@@ -61,9 +61,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1f33?style=flat&logo=linkedin&logoColor=3B82F6)](https://linkedin.com/in/SEU_USUARIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1f33?style=flat&logo=linkedin&logoColor=3B82F6)](www.linkedin.com/in/vinicius-gusmão-gavioli)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat&logo=github&logoColor=white)](https://github.com/vinigusmao-png)
-[![E-mail](https://img.shields.io/badge/E--mail-2a0d0d?style=flat&logo=gmail&logoColor=ea2845)](mailto:SEU@EMAIL.COM)
+[![E-mail](https://img.shields.io/badge/E--mail-2a0d0d?style=flat&logo=gmail&logoColor=ea2845)](mailto:vinicius.gusmao.hxh@outlook.com)
 
 </div>
 
